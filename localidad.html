@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seleccionar Localidad</title>
+    <link rel="stylesheet" href="css/global.css">
+</head>
+<body>
+    <header>
+        <h1>Selecciona tu Localidad</h1>
+    </header>
+
+    <section>
+        <label for="localidades">Elige una localidad:</label>
+        <select id="localidades">
+            <option value="">--Selecciona--</option>
+            <option value="localidad1">Localidad 1</option>
+            <option value="localidad2">Localidad 2</option>
+            <option value="localidad3">Localidad 3</option>
+            <option value="localidad4">Localidad 4</option>
+        </select>
+        <button id="mostrar-btn">Mostrar Registros</button>
+
+        <div id="resultado"></div>
+    </section>
+
+    <script>
+        // Array simulado de usuarios registrados
+        const usuarios = [
+            { nombre: "Juan", localidad: "localidad1" },
+            { nombre: "Ana", localidad: "localidad2" },
+            { nombre: "Luis", localidad: "localidad1" },
+            { nombre: "María", localidad: "localidad3" },
+            { nombre: "Pedro", localidad: "localidad2" },
+        ];
+
+        document.getElementById('mostrar-btn').addEventListener('click', function() {
+            const seleccion = document.getElementById('localidades').value;
+            const resultado = document.getElementById('resultado');
+
+            if (seleccion) {
+                // Filtrar usuarios por localidad
+                const usuariosFiltrados = usuarios.filter(usuario => usuario.localidad === seleccion);
+                if (usuariosFiltrados.length > 0) {
+                    resultado.innerHTML = `<h3>Usuarios registrados en ${seleccion}:</h3><ul>` +
+                        usuariosFiltrados.map(usuario => `<li>${usuario.nombre}</li>`).join('') +
+                        `</ul>`;
+                } else {
+                    resultado.innerHTML = `No hay usuarios registrados en ${seleccion}.`;
+                }
+            } else {
+                resultado.innerHTML = 'Por favor, selecciona una localidad.';
+            }
+        });
+    </script>
+</body>
+</html>
