@@ -5,9 +5,20 @@ if(!$conn){
     die("La conexion fallo: ". mysqli_connect_error());
 }
 
-$nombre= $_POST['nombre'];
+$email= $_POST['email'];
 $contra= $_POST['contra'];
-$query= "SELECT * FROM `login` WHERE `nombre`= '$nombre' AND `contraseña`= '$contra'";
+$rol = $_POST['rol'];
+
+if ($rol == 'propietario') {
+    $tabla = 'registrarse_propietario';
+} elseif ($rol == 'paseador') {
+    $tabla = 'registrarse_paseador';
+} else {
+    echo "Rol no válido.";
+    exit;
+}
+
+$query= "SELECT * FROM `$tabla` WHERE `correo`= '$email' AND `contraseña`= '$contra'";
 $result= mysqli_query($conn, $query);
 
 if(mysqli_num_rows($result) > 0){
