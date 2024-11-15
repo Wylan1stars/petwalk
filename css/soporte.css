@@ -1,0 +1,71 @@
+/* Estilos para la sección de soporte */
+.support {
+    padding: 20px;
+    text-align: left;
+}
+
+.support h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.support p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+.support a {
+    color: var(--secondary-color);
+    text-decoration: underline;
+}
+
+.support a:hover {
+    color: var(--color-4);
+}
+
+/* Formulario de contacto */
+.support .contact-form {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.support .contact-form label {
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+
+.support .contact-form input,
+.support .contact-form textarea {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid var(--color-3);
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.support .contact-form button {
+    background-color: var(--color-4);
+    color: var(--text-color);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.support .contact-form button:hover {
+    background-color: var(--secondary-color);
+}
+
+/* Media queries para pantallas pequeñas */
+@media (max-width: 768px) {
+    .support h2 {
+        font-size: 20px;
+    }
+
+    .support p {
+        font-size: 16px;
+    }
+}

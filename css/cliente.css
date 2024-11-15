@@ -1,0 +1,51 @@
+/* Estilos para la sección de clientes/cuidadores */
+.client-section {
+    padding: 20px;
+    text-align: center;
+}
+
+.client-section h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.client-section .btn-group {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.client-section button {
+    background-color: var(--color-4);
+    color: var(--text-color);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.client-section button:hover {
+    background-color: var(--secondary-color);
+}
+
+/* Media queries para pantallas pequeñas */
+@media (max-width: 768px) {
+    .client-section h2 {
+        font-size: 20px;
+    }
+
+    .client-section button {
+        font-size: 16px;
+    }
+
+    .btn-group {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+#map {
+    width: 100%;
+    height: 400px; /* Ajusta la altura según tus necesidades */
+    margin: 20px 0;
+}
