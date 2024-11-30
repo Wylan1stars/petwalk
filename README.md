@@ -1,48 +1,64 @@
-PetWalk Proyecto 2024
-Descripción General
-PetWalk es un servicio innovador que conecta a dueños de mascotas con paseadores profesionales. Inspirado en la dinámica de aplicaciones como Uber, en lugar de que conductores transporten personas, paseadores certificados llevan a los perros en paseos preestablecidos. Nos comprometemos a brindar a las mascotas la experiencia más cómoda, segura y divertida posible, con características que garantizan tranquilidad tanto para los dueños como para los paseadores.
+# PetWalk Proyecto 7°3
 
-Características del Proyecto
-¿Para qué trabajamos?
-El objetivo principal de PetWalk es revolucionar la experiencia de pasear perros. Trabajamos para:
+PetWalk es una iniciaiva desarrollada por un equipo de programadores y diseñadores que busca ofrecer un servicio innovador, seguro y amigable para los amantes de las mascotas. Inspirado en la dinámica de aplicaciones como Uber, PetWalk transforma la experiencia de pasear perros al proporcionar un servicio de paseadores que garantizan comodidad, diversión y seguridad tanto para las mascotas como para sus dueños.
 
-Facilitar la conexión entre dueños de mascotas y paseadores profesionales.
-Proporcionar paseos cómodos, seguros y divertidos para las mascotas.
-Ofrecer a los dueños tranquilidad mediante herramientas de seguimiento y transparencia.
-Nuestros Objetivos
-Proveer un servicio seguro y confiable para paseos de mascotas.
-Crear una comunidad de confianza entre dueños y paseadores.
-Garantizar la mejor experiencia para los perros, con paseos ajustados a sus necesidades específicas.
-Simplificar la organización de los paseos mediante rutas y horarios predefinidos.
-Nuestros Compromisos
-Seguridad: Implementamos medidas avanzadas como seguimiento GPS y verificaciones de perfiles para garantizar la protección de las mascotas.
-Calidad del servicio: Nos aseguramos de que cada paseo sea cómodo, divertido y beneficioso para los perros.
-Confianza y transparencia: Los dueños tienen acceso a información detallada sobre el paseador, incluyendo su experiencia y referencias.
-Inclusividad: Paseos para todo tipo de perros, con opciones adicionales para perros ansiosos o agresivos, incluyendo el uso de bozales proporcionados por los clientes.
-Acerca de la Seguridad
-La seguridad es nuestro pilar fundamental, y para ello ofrecemos:
+---
 
-Seguimiento en tiempo real: Los dueños pueden monitorear la ubicación del paseador y el progreso del paseo desde su dispositivo móvil.
-Información completa del paseador: Contactos, experiencia y referencias están disponibles antes de iniciar el paseo.
-Medidas adicionales: Perros ansiosos o agresivos usan bozales para garantizar la seguridad de todos los involucrados.
-Cómo Funciona PetWalk
-Registro de usuarios y mascotas: Los dueños crean un perfil y registran a sus perros con detalles relevantes.
-Selección del paseador: Los dueños eligen un paseador basado en disponibilidad, experiencia y evaluaciones.
-Inicia el paseo: El dueño establece la duración y ruta del paseo; el seguimiento GPS comienza automáticamente.
-Evaluación del servicio: Los dueños pueden calificar y dejar comentarios sobre la experiencia.
-Tecnologías Utilizadas
-Frontend:
-HTML, CSS (Bootstrap) y JavaScript.
-Backend:
-Python (Flask Framework).
-Seguimiento en tiempo real:
-Integración de APIs de geolocalización y mapas.
-Base de Datos:
-MySQL para la gestión de usuarios, mascotas y paseos.
-Equipo de Desarrollo
-Tu Nombre - Coordinador del Proyecto
-Colaborador 1 - Analista
-Colaborador 2 - Diseñador UI/UX
-Licencia
-Este proyecto está licenciado bajo la MIT License. Consulta el archivo LICENSE para más información.
+## ¿Qué es PetWalk?
+PetWalk es una plataforma que conecta a paseadores de perros experimentados con dueños de mascotas que buscan un servicio confiable y profesional. En lugar de transportar personas, nuestros paseadores brindan recorridos preestablecidos y adaptados a las necesidades de cada perro, asegurando una experiencia única.
+
+
+---
+
+## Objetivos de PetWalk
+Nuestro objetivo principal es brindar una solución integral para facilitar el cuidado y el disfrute de las mascotas mediante:
+
+- Conexión segura entre paseadores y dueños de mascotas.
+- Gestión eficiente y transparente de los servicios contratados.
+- Optimización de la experiencia de paseo para las mascotas.
+- Fomentar la confianza mediante el seguimiento en tiempo real y perfiles verificados.
+- Características principales
+- Gestión de paseos personalizados: Los dueños pueden elegir la duración y la ruta del paseo.
+- Seguridad en primer lugar: Monitoreo en tiempo real de la ubicación del paseador y uso de bozales para perros ansiosos o agresivos (proporcionados por los dueños).
+- Perfiles verificados: Antes de cada paseo, los dueños pueden revisar la información del paseador, incluyendo experiencia, - contactos y una breve descripción.
+- Experiencia escalable: Paseadores experimentados pueden manejar varios perros a la vez, garantizando un entorno controlado y seguro.
+- Soporte al cliente: Un equipo dedicado para responder dudas y gestionar cualquier inconveniente.
+Nuestra Visión
+PetWalk aspira a ser el servicio líder en la industria de paseos para mascotas, brindando confianza, seguridad y felicidad tanto a los dueños como a sus perros. A largo plazo, buscamos crear una comunidad donde dueños y paseadores compartan experiencias y aprendan juntos sobre el bienestar de las mascotas.
+
+---
+
+## ¿Qué encontrarás en PetWalk?
+La página principal de PetWalk es la entrada a un servicio pensado para satisfacer tanto a dueños como a paseadores de mascotas:
+
+---
+
+### Inicio intuitivo: Navegación fácil para explorar las funcionalidades principales.
+### Registro de usuarios y perros: Un sistema simple y directo para que los dueños registren a sus mascotas y programen paseos.
+### Perfiles de paseadores: Cada paseador cuenta con un perfil detallado para generar confianza y transparencia.
+### Seguridad: Nuestra prioridad
+### Selección rigurosa de paseadores mediante procesos de validación y capacitación.
+### Evaluaciones personalizadas del comportamiento de los perros antes de cada paseo.
+
+---
+
+## Gestión para paseadores
+
+PetWalk también incluye un panel exclusivo para paseadores, donde pueden:
+
+### Actualizar su perfil y disponibilidad.
+### Gestionar solicitudes de paseos.
+### Acceder a métricas sobre su desempeño y satisfacción de los clientes.
+### Tecnología utilizada
+### Para desarrollar PetWalk, hemos empleado un conjunto de herramientas modernas y eficientes:
+
+- **Frontend:** HTML, CSS (Bootstrap), JavaScript.
+- **Backend:** PHP.
+- **Base de datos:** MySQL para una gestión robusta de usuarios, mascotas y paseos.
+
+---
+
+## Conclusión
+
+PetWalk no es solo una aplicación; es una experiencia diseñada para transformar la manera en que cuidamos y disfrutamos del tiempo con nuestras mascotas. Nos comprometemos a ofrecer el mejor servicio con la máxima seguridad y confiabilidad.
 
