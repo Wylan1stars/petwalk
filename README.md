@@ -44,12 +44,13 @@ La página principal de PetWalk es la entrada a un servicio pensado para satisfa
 
 ## Gestión para paseadores
 
-PetWalk también incluye un panel exclusivo para paseadores, donde pueden:
+### PetWalk también incluye un panel exclusivo para paseadores, donde pueden:
 
-### Actualizar su perfil y disponibilidad.
-### Gestionar solicitudes de paseos.
-### Acceder a métricas sobre su desempeño y satisfacción de los clientes.
-### Tecnología utilizada
+- **Actualizar su perfil y disponibilidad**.
+- **Gestionar solicitudes de paseos**.
+- **Acceder a métricas sobre su desempeño y satisfacción de los clientes**.
+  
+## Tecnología utilizada
 ### Para desarrollar PetWalk, hemos empleado un conjunto de herramientas modernas y eficientes:
 
 - **Frontend:** HTML, CSS (Bootstrap), JavaScript.
@@ -58,7 +59,10 @@ PetWalk también incluye un panel exclusivo para paseadores, donde pueden:
 
 ---
 
-## Conclusión
+### Conclusión
 
 PetWalk no es solo una aplicación; es una experiencia diseñada para transformar la manera en que cuidamos y disfrutamos del tiempo con nuestras mascotas. Nos comprometemos a ofrecer el mejor servicio con la máxima seguridad y confiabilidad.
 
+## Este es el index de la pagina
+
+https://github.com/Wylan1stars/petwalk/blob/main/imagenes/inicio%20.png
