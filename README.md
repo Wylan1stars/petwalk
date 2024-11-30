@@ -65,4 +65,4 @@ PetWalk no es solo una aplicación; es una experiencia diseñada para transforma
 
 ## Este es el index de la pagina
 
-[https://raw.githubusercontent.com/Wylan1stars/petwalk/refs/heads/main/imagenes/inicio%20.png](https://raw.githubusercontent.com/LopezFranciaAxel/Sistema_de_Ayuda/refs/heads/main/Instalador.png)
+(https://raw.githubusercontent.com/LopezFranciaAxel/Sistema_de_Ayuda/refs/heads/main/Instalador.png)
