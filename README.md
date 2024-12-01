@@ -19,6 +19,8 @@ Con **PetWalk**, los paseadores experimentados pueden manejar varias mascotas al
 
 El futuro de **PetWalk** incluye el crecimiento de la comunidad de paseadores y dueños de mascotas, promoviendo un entorno de confianza y profesionalismo.
 
+---
+
 <h4>Este es el inicio de la página</h4>
 
 ![Página de Inicio](imagenes/inicio.png)
@@ -29,6 +31,8 @@ La página principal es donde comienza la experiencia **PetWalk**. Aquí podrás
 <li>Explorar servicios destacados y conocer paseadores.</li>
 <li>Acceder al menú principal: Ubicado en la parte superior, permite navegar por todas las secciones del sitio.</li>
 </ul>
+
+---
 
 ![Menú principal](imagenes/login.png)
 
