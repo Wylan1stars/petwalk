@@ -29,7 +29,7 @@ El futuro de **PetWalk** incluye el crecimiento de la comunidad de paseadores y 
 La página principal es donde comienza la experiencia **PetWalk**. Aquí podrás:
 <ul>
 <li>Explorar servicios destacados y conocer paseadores.</li>
-<li>Acceder al menú principal: Ubicado en la parte superior, permite navegar por todas las secciones del sitio.</li>
+<li>Para poder acceder a estos servicios primero deberas iniciar sesion.</li>
 </ul>
 
 ![Menú principal](imagenes/login.png)
@@ -37,16 +37,23 @@ La página principal es donde comienza la experiencia **PetWalk**. Aquí podrás
 ---
 
 <h5>Sección de Paseadores</h5>  
-En esta sección, los usuarios podrán buscar y filtrar paseadores en su zona, además de visualizar su información de contacto, experiencia y descripciones personalizadas.  
+En caso de que seas un paseador queriendo iniciar sesion deberas ir al apratado del login de cuidador.
 
 ![Sección de Paseadores](imagenes/login_paseador.png)
 
 ---
 
 <h5>Sección de Registro del Cliente</h5>  
-Aquí, los usuarios pueden registrarse para acceder a las funciones del cliente 
+Esta seccion esta destinada para los usuarios que no tienen una cuenta del sitio web. Los usuarios que quiera ser clientes pueden registrarse para acceder a las funciones de los mismos. 
 
 ![Registro del Cliente](imagenes/registro_cliente.png)
+
+---
+
+<h5>Sección de Registro del Paseador</h5>  
+Este apartado fue diseñado para los usuarios que no tienen una cuenta y quieran registrarse como paseadores.
+
+![Registro del Cliente](imagenes/registro_paseador.png)
 
 ---
 
@@ -78,7 +85,7 @@ Los clientes registrados tendrán acceso a una barra de busqueda donde podrán b
 
 ---
 
-> Equipo de Desarrollo:  
+> Integrantes del Desarrollo del Proyecto M&S PetWalk:  
 > - Fernandez Coytino Dylan Ismael 
 > - Lopez Francia Axel 
 > - Montenegro Gonzalo
