@@ -15,7 +15,7 @@ A través de este medio presentamos **PetWalk**, un proyecto desarrollado por un
 **PetWalk** es un servicio que funciona de manera similar a Uber, pero enfocado en paseadores de perros. La plataforma está diseñada para brindar una experiencia cómoda, segura y divertida para las mascotas, mientras ofrece a los dueños control total y tranquilidad. Utilizamos tecnologías como **HTML**, **CSS**, **JavaScript** y **PHP**, junto con herramientas como **Bootstrap**, para desarrollar un sistema robusto y fácil de usar.
 
 <h4>¿Cómo lo logramos?</h4>
-Con **PetWalk**, los paseadores experimentados pueden manejar varias mascotas al mismo tiempo, mientras que los perros ansiosos o peligrosos deben llevar un bozal proporcionado por el dueño. Nuestra misión es facilitar este proceso para los usuarios, ofreciendo una interfaz intuitiva, seguridad garantizada y soporte constante. 
+Con <strong>PetWalk</strong>, los paseadores experimentados pueden manejar varias mascotas al mismo tiempo, mientras que los perros ansiosos o peligrosos deben llevar un bozal proporcionado por el dueño. Nuestra misión es facilitar este proceso para los usuarios, ofreciendo una interfaz intuitiva, seguridad garantizada y soporte constante. 
 
 El futuro de **PetWalk** incluye el crecimiento de la comunidad de paseadores y dueños de mascotas, promoviendo un entorno de confianza y profesionalismo.
 
@@ -26,7 +26,7 @@ El futuro de **PetWalk** incluye el crecimiento de la comunidad de paseadores y 
 ![Página de Inicio](imagenes/inicio.png)
 
 <h4>¿Qué encontrarás aquí?</h4>
-La página principal es donde comienza la experiencia **PetWalk**. Aquí podrás:
+La página principal es donde comienza la experiencia <strong>PetWalk</strong>. Aquí podrás:
 <ul>
 <li>Explorar servicios destacados y conocer paseadores.</li>
 <li>Para poder acceder a estos servicios primero deberas iniciar sesion.</li>
