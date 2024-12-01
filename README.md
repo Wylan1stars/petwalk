@@ -37,6 +37,7 @@ La página principal es donde comienza la experiencia <strong>PetWalk</strong>. 
 
 <h5>Sección de Paseadores</h5>  
 En caso de que seas un paseador queriendo iniciar sesion deberas ir al apratado del login de cuidador.
+<br>
 
 ![Sección de Paseadores](imagenes/login_paseador.png)
 
@@ -44,6 +45,7 @@ En caso de que seas un paseador queriendo iniciar sesion deberas ir al apratado 
 
 <h5>Sección de Registro del Cliente</h5>  
 Esta seccion esta destinada para los usuarios que no tienen una cuenta del sitio web. Los usuarios que quiera ser clientes pueden registrarse para acceder a las funciones de los mismos. 
+<br>
 
 ![Registro del Cliente](imagenes/registro_cliente.png)
 
@@ -51,6 +53,7 @@ Esta seccion esta destinada para los usuarios que no tienen una cuenta del sitio
 
 <h5>Sección de Registro del Paseador</h5>  
 Este apartado fue diseñado para los usuarios que no tienen una cuenta y quieran registrarse como paseadores.
+<br>
 
 ![Registro del Cliente](imagenes/registro_paseador.png)
 
@@ -58,12 +61,13 @@ Este apartado fue diseñado para los usuarios que no tienen una cuenta y quieran
 
 <h5>Gestión del Perfil de Paseador</h5>  
 Los paseadores registrados tendrán acceso a un panel donde podrán:
+<br>
 <ul>
 <li>Actualizar su perfil e información de contacto.</li>
 <li>Visualizar los paseos activos y sus historiales.</li>
 <li>Establecer disponibilidad de horarios y zonas de cobertura.</li>
 </ul>
-  
+<br>  
 
 ![Perfil de Paseador](imagenes/modificar_datos.png)
 
@@ -71,6 +75,7 @@ Los paseadores registrados tendrán acceso a un panel donde podrán:
 
 <h5>Busqueda de Paseadores</h5>
 Los clientes registrados tendrán acceso a una barra de busqueda donde podrán buscar paseadores disponibles segun su misma localidad.
+<br>
 
 ![Gestión de Paseador](imagenes/busqueda_paseador1.png)
 
