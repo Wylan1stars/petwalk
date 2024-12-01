@@ -74,7 +74,7 @@ Los clientes registrados tendrán acceso a una barra de busqueda donde podrán b
 
 <h5>Logo de PetWalk</h5>
 
-![Logo de PetWalk](imagenes/logo.png)
+![Logo de PetWalk](imagenes/logo.jpg)
 
 ---
 
