@@ -46,7 +46,8 @@ En caso de que seas un paseador queriendo iniciar sesion deberas ir al apratado 
 <h5>Sección de Registro del Cliente</h5>  
 Esta seccion esta destinada para los usuarios que no tienen una cuenta del sitio web. Los usuarios que quiera ser clientes pueden registrarse para acceder a las funciones de los mismos. 
 <br>
-<br>
+
+
 ![Registro del Cliente](imagenes/registro_cliente.png)
 
 ---
@@ -54,7 +55,8 @@ Esta seccion esta destinada para los usuarios que no tienen una cuenta del sitio
 <h5>Sección de Registro del Paseador</h5>  
 Este apartado fue diseñado para los usuarios que no tienen una cuenta y quieran registrarse como paseadores.
 <br>
-<br>
+
+
 ![Registro del Cliente](imagenes/registro_paseador.png)
 
 ---
