@@ -65,5 +65,5 @@ PetWalk no es solo una aplicación; es una experiencia diseñada para transforma
 
 ## Este es el index de la pagina
 
-![inicio](imagenes/inicio .png)
+![inicio](imagenes/inicio.png)
 
