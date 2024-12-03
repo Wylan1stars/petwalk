@@ -96,3 +96,4 @@ Los clientes registrados tendrán acceso a una barra de busqueda donde podrán b
 > - Lopez Francia Axel 
 > - Montenegro Gonzalo
 > - Nogales Maldonado Matias Nicolas
+> - Godoy Marcos Enzo
