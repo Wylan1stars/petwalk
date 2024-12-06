@@ -1,0 +1,214 @@
+Documentación Completa del Proyecto PetWalk
+
+---
+
+19/04/2024: Inicio del proyecto y definición de la idea
+
+Reunión inicial del equipo:
+
+Identificación de la problemática: dificultad para encontrar cuidadores confiables para mascotas.
+
+Propuesta de solución: una plataforma que conecte propietarios con cuidadores y facilite la gestión de servicios.
+
+
+Definición de objetivos:
+
+1. Crear una plataforma funcional para el registro de paseadores y propietarios.
+
+
+2. Permitir a los dueños de mascotas registrar a sus animales.
+
+
+3. Incorporar una funcionalidad para localizar cuidadores disponibles.
+
+
+
+Roles asignados:
+
+Gestión del proyecto: Coordinación general y seguimiento del cronograma.
+
+Frontend: Diseño de las interfaces de usuario.
+
+Backend: Conexión con la base de datos y lógica del servidor.
+
+Base de datos: Creación y mantenimiento de las tablas necesarias.
+
+
+Planificación inicial (Diagrama Gantt):
+
+Desarrollo dividido en fases:
+
+1. Fase 1: Creación de la estructura base (abril-mayo).
+
+
+2. Fase 2: Desarrollo de funcionalidades principales (junio-agosto).
+
+
+3. Fase 3: Integración y pruebas finales (septiembre-noviembre).
+
+
+
+
+
+
+---
+
+26/04/2024: Estructuración del proyecto
+
+Tareas realizadas:
+
+Creación de la estructura de carpetas para organizar el código (HTML, CSS, PHP).
+
+Implementación de un archivo base: index.php con enlaces principales.
+
+Desarrollo inicial de styles.css con variables de colores y estilo global.
+
+
+
+
+---
+
+03/05/2024: Desarrollo del sistema de registro
+
+Tareas realizadas:
+
+Creación de registro.php para usuarios.
+
+Diseño y estilos específicos en registro.css.
+
+Validaciones iniciales en los formularios con HTML5.
+
+
+
+
+---
+
+10/05/2024: Base de datos y conexión inicial
+
+Tareas realizadas:
+
+Configuración de la base de datos petwalk en MySQL.
+
+Creación de tablas:
+
+paseador
+
+propietario
+
+mascotas
+
+
+Desarrollo del archivo conexion.php para manejar la conexión con la base de datos.
+
+Pruebas de conexión exitosas.
+
+
+
+
+---
+
+17/05/2024: División de roles y flujo de trabajo
+
+Revisión del avance del Gantt.
+
+Refinamiento de roles:
+
+Frontend: Desarrollo de vistas adicionales como el registro de cuidadores.
+
+Backend: Validaciones en el servidor.
+
+BD: Inserción de datos de prueba y optimización de las tablas.
+
+
+
+
+---
+
+24/05/2024: Registro de cuidadores
+
+Tareas realizadas:
+
+Creación del formulario registro-cuidador.php.
+
+Personalización de estilos en registro-cuidador.css.
+
+Conexión con la tabla paseador en la base de datos.
+
+
+
+
+---
+
+31/05/2024: Desarrollo del sistema de mascotas
+
+Tareas realizadas:
+
+Implementación de registro-mascotas.php.
+
+Creación de registro-mascotas.css.
+
+Configuración de relaciones en la tabla mascotas.
+
+
+
+
+---
+
+07/06/2024: Validaciones y pruebas
+
+Validación de formularios de registro (usuarios, cuidadores, mascotas).
+
+Resolución de errores detectados en las conexiones.
+
+Revisión del diseño responsivo.
+
+
+
+---
+
+14/06/2024: Integración del diseño general
+
+Consolidación de los estilos globales en styles.css.
+
+Mejora de la consistencia visual del proyecto.
+
+Ajustes en el diseño del menú principal y pie de página.
+
+
+
+---
+
+21/06/2024: Desarrollo del módulo de soporte
+
+Creación de la vista soporte.php para consultas de usuarios.
+
+Diseño en soporte.css con estilo minimalista.
+
+Inclusión de un formulario de contacto.
+
+
+
+---
+
+Junio - Octubre 2024: Progreso semanal continuo
+
+Cada viernes:
+
+Implementación de nuevas funcionalidades.
+
+Pruebas y corrección de errores.
+
+Ajustes en el diseño y responsividad.
+
+
+
+
+---
+
+29/11/2024: Finalización y entrega
+
+Últimas revisiones del sistema.
+
+Pruebas de usuario final.
+
+Documentación del proyecto para presentación.
